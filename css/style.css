@@ -1,0 +1,22 @@
+header{
+    background-color: khaki;
+}
+main{
+    background-color: gold;
+    padding: 30px;
+}
+footer{
+    background-color: orange;
+    
+}
+H1{
+    background-color: orangered;
+    font-family: Verdana;
+    text-align: center;
+    width: 70%;
+    float: left;
+}
+div{
+    width: 95%;
+    margin: auto;
+}
