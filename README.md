@@ -1,2 +1,0 @@
-# taller-abierto
- taller abierto
